@@ -9,17 +9,16 @@ It includes serveral examples with dataset for different machine learning models
 - Data-Visualization-with-Seaborn
 - Data-processing in Python
 
-2. [Regression]
+2. [Regression](https://github.com/syhwawa/Machine_Learning/tree/master/Regression)
 - Linear Regression
 - Logistic Regression
 
-3. Classfication
+3. [Classfication](https://github.com/syhwawa/Machine_Learning/tree/master/Classfication)
 - K-Nearest Neighbor
 - Naive Bayes
 - Tree(Decision Tree, Random Forest)
 - Support Vector Machine
 
-
-## Data Science take home challenge solutions
+## [Data Science take home challenge solutions](https://github.com/syhwawa/Machine_Learning/tree/master/Take%20Home%20Challenge)
 
 ## [Kaggle](https://github.com/syhwawa/Machine_Learning/tree/master/Kaggle/Titanic)
