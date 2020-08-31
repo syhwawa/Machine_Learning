@@ -12,3 +12,14 @@ In general, Collaborative filtering (CF) is more commonly used than content-base
 CF can be divided into **Memory-Based Collaborative Filtering** and **Model-Based Collaborative filtering**. 
 
 In this tutorial, we will implement Model-Based CF by using singular value decomposition (SVD) and Memory-Based CF by computing cosine similarity. 
+
+## Advantages and Disadvantages of Collaborative Filtering
+#### Advantages
+- Takes other user's ratings into consideration
+- Doesn't need to study or extract information from the recommended item
+- Adapts to the user's interests which might change over time
+
+#### Disadvantages
+- Approximation function can be slow
+- There might be a low of amount of users to approximate
+- Privacy issues when trying to learn the user's preferences
