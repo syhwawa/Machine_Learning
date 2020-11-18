@@ -21,6 +21,9 @@ It includes serveral examples with dataset for different machine learning models
 
 4. [Clustering]()
 
+5. Deep Learning
+
+6. NLP
 ## [Data Science take home challenge solutions](https://github.com/syhwawa/Machine_Learning/tree/master/Take%20Home%20Challenge)
 
 ## [Kaggle](https://github.com/syhwawa/Machine_Learning/tree/master/Kaggle/Titanic)
