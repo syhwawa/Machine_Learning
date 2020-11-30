@@ -29,6 +29,8 @@ Some of the most popular examples of these methods are LASSO and RIDGE regressio
 Lasso regression performs L1 regularization which adds penalty equivalent to absolute value of the magnitude of coefficients.
 Ridge regression performs L2 regularization which adds penalty equivalent to square of the magnitude of coefficients.
 
+## Feature Selection in Python
+
 - Correlation Matrix with Heatmap
 - Feature Importance
 - Univariate Selection
