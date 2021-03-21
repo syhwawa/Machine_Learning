@@ -26,6 +26,9 @@ It includes serveral examples with dataset for different machine learning models
 6. NLP
 
 7. Reinforcement Learning
+
+8. Time Series
+
 ## [Data Science take home challenge solutions](https://github.com/syhwawa/Machine_Learning/tree/master/Take%20Home%20Challenge)
 
 ## [Kaggle](https://github.com/syhwawa/Machine_Learning/tree/master/Kaggle/Titanic)
