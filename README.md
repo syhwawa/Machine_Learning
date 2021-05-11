@@ -26,6 +26,7 @@ It includes serveral examples with dataset for different machine learning models
 6. [NLP](https://github.com/syhwawa/Machine_Learning/tree/master/NLP)
 
 7. Reinforcement Learning
+A good repo to learn [Reinforcement Learning](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
 
 8. [Time Series](https://github.com/syhwawa/Machine_Learning/tree/master/Time%20Series)
 
