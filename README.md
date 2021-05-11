@@ -1,7 +1,7 @@
 # Machine Learning
 This repository is for the projects and courses that I have done. 
 
-It includes serveral examples with dataset for different machine learning models from Udemy, Coursera, datacamp, Kaggle and[DS take home challenge](https://datamasked.com/). 
+It includes serveral examples with dataset for different machine learning models from Udemy, Coursera, datacamp, Kaggle and [DS take home challenge](https://datamasked.com/). 
 
 ## Content
 1. [Data processing](https://github.com/syhwawa/Machine_Learning/tree/master/Data%20Preprocessing)
