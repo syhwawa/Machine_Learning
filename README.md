@@ -22,6 +22,9 @@ It includes serveral examples with dataset for different machine learning models
 4. [Clustering](https://github.com/syhwawa/Machine_Learning/tree/master/Clustering)
 
 5. [Deep Learning](https://github.com/syhwawa/Machine_Learning/tree/master/Deep%20Learning)
+- Neural Networks and Deep Learning
+- CNN
+- RNN
 
 6. [NLP](https://github.com/syhwawa/Machine_Learning/tree/master/NLP)
 
